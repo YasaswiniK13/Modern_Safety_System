@@ -1,2 +1,2 @@
 # Modern_Safety_System
- 
+A portable self-defense device has been developed, integrating a camera, GSM module, GPS module, and an alarm system, all controlled by a single switch. When activated, the device captures the image of the assailant and sends it to an HTTP web server. Simultaneously, it triggers an alarm and sends an emergency message to preselected contacts, stating, "I am in danger," along with the user's current location, which can be tracked via a mobile app.
